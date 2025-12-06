@@ -1,0 +1,7 @@
+0
+1
+1
+8
+Invalid input: Charlie
+
+-5 is a negative number 
